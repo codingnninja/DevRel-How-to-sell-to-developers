@@ -1,2 +1,2 @@
 # DevRel-Bible-How-to-sell-to-developers
-Well structured skills and experience to take get started in December Relations or take your DevRel skills to the next level no matter your skill level
+Well structured skills and experience to take get started in Developer Relations or take your DevRel skills to the next level no matter your current skill level
