@@ -11,7 +11,7 @@ You only need to be curious to learn more about Developer Relations (DevRel).
 - [DevRel Bible: How to sell to developers](#DevRel-Bible-How-to-sell-to-developers)
   - [Prerequisites](#prerequisites)
   - [Table of contents](#table-of-contents)
-  - [Offer](#offer)
+  - [How to read this content](#how-to-read-this-content)
   - [Background](#background)
   - [Why is it hard to sell to developers?](#why-is-it-hard-to-sell-to-developers?)
   - [What is Developer Relations (DevRel)](#what-is-devrel?)
@@ -47,6 +47,7 @@ You only need to be curious to learn more about Developer Relations (DevRel).
   - [Ayobami Ogundiran (Twitter: @codingnninja)](#ayobami-ogundiran)
   - [License](#license)
 
+## How to read this content
 
 ## Background
 
