@@ -42,8 +42,8 @@ You only need to be curious to learn more about Developer Relations (DevRel).
   - [Hierarchy of reactions/engagements](#hierarchy-of-reactions-engagements)
   - [Measuring success](#measuring-success)
   - [Offers](#offers)
-  - [For a business](#for-a-business)
-  - [For an individual](#for-an-individual)
+    - [For a business](#for-a-business)
+    - [For an individual](#for-an-individual)
   - [Ayobami Ogundiran (Twitter: @codingnninja)](#ayobami-ogundiran)
   - [License](#license)
 
@@ -470,7 +470,7 @@ In short, to have unexpected but positive impacts or intended impacts, you must 
 ### Stages of impact
 
 
-Awareness is the first stage of impact developer relations are meant to achieve and it is very important to DevRel success. Awareness must be created for your products or services before they can have any powerful effect on anyone whatsoever. It is also essential to make sure the awareness is impactful, that is, it has a powerful effect on your audience.
+***Awareness*** is the first stage of impact developer relations are meant to achieve and it is very important to DevRel success. Awareness must be created for your products or services before they can have any powerful effect on anyone whatsoever. It is also essential to make sure the awareness is impactful, that is, it has a powerful effect on your audience.
 
 By a powerful effect, I mean an effect that makes them act the way you desire or predetermined.
 
@@ -501,7 +501,7 @@ Let’s use the image below as an example:
 
 In this case, “following” is the major action, so to calculate the level of awareness Mark had to get those followers; we will do 9,467 * 5 = 47,335. That means 47,335 people know that Mark exists and is important but 47,335 * 5 = 236,675 are now aware he exists though don't know he is important. Now, the total awareness generated is equal to  47,335 + 236,675.
 
-*Acquisition* (inbound and outbound action) — This refers to getting some audience. It is all about the audience you’re able to get from the awareness you generate. 
+***Acquisition*** (inbound and outbound action) — This refers to getting some audience. It is all about the audience you’re able to get from the awareness you generate. 
 
 For example, those who consume your content and take actions like subscribing, and  sharing and those who take the next action like filling a form (outbound action ). The acquisition is the second stage of impact where you need solid reasons to make the audience take your predetermined reactions.
 
@@ -513,19 +513,19 @@ That is why you have to consider them as a part of the people who are aware of y
 
 “Acquisition” is basically about the audience who takes your predetermined reactions whether inbound or outbound except clicks and views.
 
-*Activation* (Usage) is the third stage of impact where you make your audience to consume your products or services. This is the stage when you have to make sure they feel the magic in your products. Once they feel the magic, they’re activated to keep using your products and tell others about it. You can also use the first side of the Pareto principle to measure activation. It states that approximately 20% of the audience that is acquired takes action to use your products or services.
+***Activation*** (Usage) is the third stage of impact where you make your audience to consume your products or services. This is the stage when you have to make sure they feel the magic in your products. Once they feel the magic, they’re activated to keep using your products and tell others about it. You can also use the first side of the Pareto principle to measure activation. It states that approximately 20% of the audience that is acquired takes action to use your products or services.
 
-*Retention* is the fourth stage of impact when your audience has felt the magic in your products or services and they are stuck with it because it solves their problems in interesting ways they can’t do without. 
+***Retention*** is the fourth stage of impact when your audience has felt the magic in your products or services and they are stuck with it because it solves their problems in interesting ways they can’t do without. 
 
 At this stage, users will churn if they don’t find your products really useful so you have to keep making sure you solve problems that make them stick around. Don’t forget, approximately 20% of the audience that is activated is retained.
 
-*Referral* is the fifth stage of impact when your audience proudly shares your products and services with their networks to bring them to use them too. You need to make sharing your products easy for your audience and also make sure that you encourage them to do so. Also, approximately 20% of the audience that is retained will refer you to their networks to use your products.
+***Referral*** is the fifth stage of impact when your audience proudly shares your products and services with their networks to bring them to use them too. You need to make sharing your products easy for your audience and also make sure that you encourage them to do so. Also, approximately 20% of the audience that is retained will refer you to their networks to use your products.
 
-*Revenue* is the sixth stage of impact when you have cleared the doubts and fears of your audience and now pay for your products and services. Now, approximately 20% of the audience that is retained will pay for your products eventually.
+***Revenue*** is the sixth stage of impact when you have cleared the doubts and fears of your audience and now pay for your products and services. Now, approximately 20% of the audience that is retained will pay for your products eventually.
 
 You might be wondering why I call all of these stages of impact. It is for you to realize how the success of your products depends on the great experience of your audience and the more you improve at every stage, the more your chance of increasing adoption and revenue.
 
-*Product feedback* — This is the last stage where you get useful information from your customers to improve your products.
+***Product feedback*** — This is the last stage where you get useful information from your customers to improve your products.
 
 ### How to measure impact quantitatively and qualitatively
 
@@ -603,24 +603,6 @@ Ayobami Ogundiran( Twitter: @codingnninja).
 
 ## Offers
 
-### For a business:
-Do you want to drive adoption and revenue for your products and services?
-
-We're constantly working around the clock to make sure driving adoption and revenue for you products and oganizations is straight forward.
-
-We can help you:
-
-1. Create origin stories that compel your audience to act.
-2. Design content workflow to serve your users and your business. 
-3. Discover the magic in your products.
-4. Create content to drive adoption and revenue for your products.
-5. Design presentation workflow to reveal the personality of your brand. 
-6. Craft tailored DevRel tactics and strategies for your organization.
-7. Design mental models that help your DevRel team work in harmony.
-
-Now, we are excited to get a response from you so that we can start talking about how to drive adoption and revenue for your products or organization.
-
-
 ### For individuals:
 
 Don't over work yourself until you're burned out. 
@@ -637,15 +619,32 @@ These are what we can do for you:
 
 1. Create content tactics & strategies.
 
-2. Design presentation workflows.
+2. Design tailored presentation workflows.
 
 3. Research and analysis products and strategies.
 
-4. Create any form of contents.
+4. Create any form of tailored content.
 
-5. Drive adoption and revenue.
-
-6. Design content workflows
+6. Design tailored content workflows
 
 Now, we are excited to get a response from you so that we can start talking about how to drive adoption and revenue for your organization
  
+
+
+### For a business:
+
+Do you want to drive adoption and revenue for your products?
+
+We're constantly working around the clock to make sure driving adoption and revenue for you products and oganizations isn't killing your business.
+
+We can help you:
+
+1. Craft product origin stories that compel your audience to act.
+2. Design tailored content workflows to entice your users. 
+3. Discover the magic in your products.
+4. Create tailored content to drive adoption and revenue for your products.
+5. Design tailored presentation workflows to reveal the personality of your brand. 
+6. Craft tailored DevRel tactics and strategies for your organization.
+7. Design mental models that help your DevRel team work in harmony.
+
+Now, we are excited to get a response from you so that we can start talking about how to drive adoption and revenue for your products or organization.
