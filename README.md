@@ -30,31 +30,23 @@ You only need to be curious to learn more about Developer Relations (DevRel).
     - [Measuring the impact of going to conferences](#measuring-the-impact-of-going-to-conferences)
     - [Measuring the impact of creating content](#measuring-the-impact-of-creating-content)
     - [Measuring impacts of engaging developer communities](#measuring-impacts-of-engaging-developer-communities)
-  - [Contributing](#contributing)
-  - [@Todo](#todo)
-  - [Built With](#built-with)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
+  - [More thought on creating swags to engage developers](#more-thought-on-creating-swags-to-engage-developers)
+  - [How to measure success in DevRel](#how-to-measure-success-in-devrel)
+    - [How to measure impacts?](#how-to-measure-impacts?)
+    - [Stages of Impact](#stages-of-impact)
+    - [How to measure impact quantitatively and qualitatively](#how-to-measure-impact-quantitatively-and-qualitatively)
+      - [Progressive Reactions](#progressive-reactions)
+      - [Retrogressive Reactions](#retrogressive-reactions)
+      - [Precautionary Reactions](#precautionary-reactions)
+      - [Predetermined Reactions](#predetermined-reactions)
+  - [Hierarchy of reactions/engagements](#hierarchy-of-reactions-engagements)
+  - [Measuring success](#measuring-success)
+  - [Offers](#offers)
+  - [For a business](#for-a-business)
+  - [For an individual](#for-an-individual)
+  - [Ayobami Ogundiran (Twitter: @codingnninja)](#ayobami-ogundiran)
   - [License](#license)
 
-
-## Offer
-
-Do you want to drive adoption and revenue for your products and services?
-
-We're constantly working around the clock to make sure driving adoption and revenue for you products and oganizations is straight forward.
-
-We can help you:
-
-1. Create origin stories that compel your audience to act.
-2. Design content workflow to serve your users and your business. 
-3. Discover the magic in your products.
-4. Create content to drive adoption and revenue for your products.
-5. Design presentation workflow to reveal the personality of your brand. 
-6. Craft tailored DevRel tactics and strategies for your organization.
-7. Design mental models that help your DevRel team work in harmony.
-
-Now, we are excited to get a response from you so that we can start talking about how to drive adoption and revenue for your products or organization.
 
 ## Background
 
@@ -412,7 +404,7 @@ You can measure the number of people you give you stickers, tickets, learning ma
 
 Even when you create tutorials (video or article) for SEO or to educate the communities about your products and offerings, you can still include the kind of gifts we discussed under measuring the impact of going to conferences as an incentive to make people act. Thereby we can also measure the impact of those who take action.
 
-### Measuring impacts of engaging developer communities
+### Measuring the impact of engaging developer communities
 
 It is now possible to measure almost all DevRel activities within the developer communities with the kind of actionable gifts we have designed. Just keep sharing them wherever you go and bring them back to your company. 
 
@@ -444,7 +436,7 @@ Let me give you some insights:
 
 ## How to measure success in DevRel
 
-"One measurement is worth a thousand expert opinions."
+***"One measurement is worth a thousand expert opinions."***
 – Donald Sutherland
 
 Measuring success in DevRel is very important for the sake of business. Business executives need something to measure to have insights about the department. Since DevRel and the Sales teams have to work together to drive revenue, we need to clarify or define what success is for both departments.
@@ -608,3 +600,51 @@ Your reaction here should guide you in selling to developers.
 Thank you!
 Ayobami Ogundiran( Twitter: @codingnninja).
 
+## Offers
+
+### For a business:
+Do you want to drive adoption and revenue for your products and services?
+
+We're constantly working around the clock to make sure driving adoption and revenue for you products and oganizations is straight forward.
+
+We can help you:
+
+1. Create origin stories that compel your audience to act.
+2. Design content workflow to serve your users and your business. 
+3. Discover the magic in your products.
+4. Create content to drive adoption and revenue for your products.
+5. Design presentation workflow to reveal the personality of your brand. 
+6. Craft tailored DevRel tactics and strategies for your organization.
+7. Design mental models that help your DevRel team work in harmony.
+
+Now, we are excited to get a response from you so that we can start talking about how to drive adoption and revenue for your products or organization.
+
+
+### For individuals:
+
+Don't over work yourself until you're burned out. 
+
+See, Developer Relations can be very demanding because it has no obvious boundary. 
+
+You overwork yourself every day. You do overtime all the time. Is it becoming too hard day by day?
+
+You don't have to live a horrible life ever again because DevRel-on-steroids can be your assistant to always get things done excellently on your behalf.
+
+You can sleep at night, enjoy yourself and even be lazy sometimes knowing your job will be done without a fault.
+
+These are what we can do for you:
+
+1. Create content tactics & strategies.
+
+2. Design presentation workflows.
+
+3. Research and analysis products and strategies.
+
+4. Create any form of contents.
+
+5. Drive adoption and revenue.
+
+6. Design content workflows
+
+Now, we are excited to get a response from you so that we can start talking about how to drive adoption and revenue for your organization
+ 
