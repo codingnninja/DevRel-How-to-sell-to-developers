@@ -20,13 +20,16 @@ You only need to be curious to learn more about Developer Relations (DevRel).
   - [How to make us feel the magic](#how-to-make-us-feel-the-magic)
     - [Identification of audience](#identification-of-audience)
     - [Education of stakeholders](#education-of-stakeholders)
-    - [Naming things to elicit curiosity](#naming-things-to-elicit-curiosity)
-    - [getDataFromHTML](#getDataFromHTML())
-    - [getDataById](#getDataById())
-    - [isDataExit](#isDataExit())
-    - [deleteDataById](#deleteDataById())
-    - [restoreDataById](#restoreDataById())
-    - [resetTokenInBrowser](#resetTokenInBrowser())
+    - [Forming Relationships the right way:
+](#formimg-relationships-the-right-way)
+      - [Naming things to elicit curiosity](#naming-things-to-elicit-curiosity)
+      - [Crafting compelling titles](#crafting-compelling-titles)
+      - [Making Content Intriguing](#making-content-intriguing)
+  - [How to align business goals with DevRel
+](#how-to-align-business-goals-with-devrel)
+    - [Measuring the impact of going to conferences](#measuring-the-impact-of-going-to-conferences)
+    - [Measuring the impact of creating content](#measuring-the-impact-of-creating-content)
+    - [Measuring impacts of engaging developer communities](#measuring-impacts-of-engaging-developer-communities)
   - [Contributing](#contributing)
   - [@Todo](#todo)
   - [Built With](#built-with)
@@ -267,7 +270,7 @@ Give developers subtle reasons to use your products in your content, docs and pr
 
 If you do it well, you will be able to make developers buy without selling.
 
-Forming Relationships 3:
+Forming Relationships the right way:
 
 Forming relationships with developers is at the heart of Developer Relations and without it, you would struggle to reach developers and make them buy from you eventually. 
 
@@ -316,7 +319,7 @@ As the human brain tends to match things with what is stored and fills in the ga
 *Contradictory or paradoxical name:* Give a name that is an exact opposite of a norm, product, idea, tool or itself, e.g, noCode, Stackless, Serverless
 
 
-### Giving Title:
+### Crafting compelling titles:
 Give your content titles that elicit curiosity at a glance. Below shows your ways to do so:
 
 *Use a paradox:* You can make your reader curious by using a title that seems to be self-contradictory, contradictory or impossible. E.g  How to sell to developers (Nobody wants to sell to developers because it doesn’t work), How to build a “Serverless Database '' with JavaScript and Github, and How to understand a large, legacy codebase like a pro.
