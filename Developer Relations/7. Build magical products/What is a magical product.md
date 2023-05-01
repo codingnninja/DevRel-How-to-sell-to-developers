@@ -1,3 +1,3 @@
 # What is a magical product?
 
-To get detailed inforamtion, analysis, expert opinions, strategies and case studies on this topic, subscribe to my newsletter at [Mindscrates](https://codingnninja.substack.com).
+To get detailed inforamtion, analysis, expert opinions, strategies and case studies on this topic, subscribe to my newsletter at [Mindcrates](https://codingnninja.substack.com).

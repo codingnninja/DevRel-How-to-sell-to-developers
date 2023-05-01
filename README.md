@@ -48,7 +48,7 @@ You only need to be curious to learn more about Developer Relations (DevRel).
 
 ## How to read this content
 
-This content
+Read everything on this page to have a general understanding of how to succeed in Developer Relations as a whole. However, you can click on "learn more..." at the end of a topic to go deeper into that particular topic.
 ## Background
 
 It all started on 6th Feb. 2020 when I was sitting at my table researching more about DevRel challenges. 
