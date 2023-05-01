@@ -1,7 +1,6 @@
 # DevRel Bible: How to sell to developers
 
 > Well structured skills and experience to get started in Developer Relations or take your DevRel skills to the next level no matter your current skill level. Now, let's get started!.
-
 ## Prerequisites
 
 You only need to be curious to learn more about Developer Relations (DevRel).
@@ -49,6 +48,7 @@ You only need to be curious to learn more about Developer Relations (DevRel).
 
 ## How to read this content
 
+This content
 ## Background
 
 It all started on 6th Feb. 2020 when I was sitting at my table researching more about DevRel challenges. 
@@ -195,6 +195,8 @@ TailwindCSS also made me feel the magic recently. When I used it, it was easy to
 
 If your products don’t make us or yourself feel that magic, it is hard to get developers to stick to it. Even if you get us to signup, we won’t stick to it. Then, how do you make developers feel the magic in your products?
 
+[Learn more...](Developer%20Relations/1.%20General%20Developer%20Relations/5.%20How%20to%20make%20developers%20buy.md)
+
 ## How to make us feel the magic
 
 “Magic touches people in the way great art does. It lets them see the world with new eyes.” – Drummond Money-Coutts
@@ -309,21 +311,22 @@ As the human brain tends to match things with what is stored and fills in the ga
 
 *Funny name:* Give a name that is funny and clearly indicates what you do. GitBoob, hashNude
 
-*Contradictory or paradoxical name:* Give a name that is an exact opposite of a norm, product, idea, tool or itself, e.g, noCode, Stackless, Serverless
+*Contradictory or paradoxical name:* Give a name that is an exact opposite of a norm, product, idea, tool or itself, e.g, noCode, Stackless, Serverless.
 
 
 ### Crafting compelling titles:
 Give your content titles that elicit curiosity at a glance. Below shows your ways to do so:
 
-*Use a paradox:* You can make your reader curious by using a title that seems to be self-contradictory, contradictory or impossible. E.g  How to sell to developers (Nobody wants to sell to developers because it doesn’t work), How to build a “Serverless Database '' with JavaScript and Github, and How to understand a large, legacy codebase like a pro.
+***Use a paradox:*** You can make your reader curious by using a title that seems to be self-contradictory, contradictory or impossible. E.g  How to sell to developers (Nobody wants to sell to developers because it doesn’t work), How to build a “Serverless Database '' with JavaScript and Github, and How to understand a large, legacy codebase like a pro.
 
-*Use a question:* Ask a thought-provoking question that piques the interest of your reader, E.g, Do you know you can reduce your debug time and stress with Replay?
+***Use a question:*** Ask a thought-provoking question that piques the interest of your reader, E.g, Do you know you can reduce your debug time and stress with Replay?
 
-*Solve a problem:* Make sure your title reflects the problem it solves so that people who need your solution can check it out, eg. How to reduce your debug time and stress with Replay
+***Solve a problem:*** Make sure your title reflects the problem it solves so that people who need your solution can check it out, eg. How to reduce your debug time and stress with Replay
 Using a teaser: Give a title that hints at a strange or intriguing event or idea. Replay: A video debugger that changed my career, The narrow death of Google.
 
-*Use a metaphor:* Use titles that compare two things of different classes, e.g, ChatGPT-on-steroid: the only coding assistant that never fail 
-Us a number: You can also use titles that start with a number like “10 ways to keep you developers productive”
+***Use a metaphor:*** Use titles that compare two things of different classes, e.g, ChatGPT-on-steroid: the only coding assistant that never fail.
+
+***Use a number:*** You can also use titles that start with a number like “10 ways to keep you developers productive”.
 
 Using highly curious and purposeful titles can be used to lead developers to your products so they feel the solutions you provide to their problems.
 
@@ -379,6 +382,7 @@ Likewise, forcing developers to ignore impacts and relationships to sell at all 
 
 Here is it: DevRel should focus on impacts and relationships but make impacts and relationships measurable. Did you just say that is impossible? Well, hear me out because I am about to show you how to do so.
 
+[Learn more...](Developer%20Relations/8.%20Measuring%20success/0.%20How%20to%20align%20business%20goals%20with%20DevRel.md)
 ### Measuring the impact of going to conferences
 
 DevRel people tend to share swags like stickers, shirts, hoodies and some others at conferences as a way to promote their brands. That is amazing but it will be better if we make most of these things actionable so that we can measure significant actions in the end. 
@@ -565,9 +569,8 @@ You have to use them to see how people react to your content and products and se
 
 For example, your content may generate retrogressive reactions and attract a lot of people to your funnel but that may not be favourable if they don’t take your most desired reactions and that is why you have to pay attention to the reaction that brings you the best result and do more of it.
 
-
+[Learn more...](Developer%20Relations/8.%20Measuring%20success/1.%20Measuring%20success%20in%20DevRel.md)
 ### Hierarchy of reactions/engagements
-
 
 1st. feedback
 2nd. payment
@@ -609,7 +612,7 @@ Don't over work yourself until you're burned out.
 
 See, Developer Relations can be very demanding because it has no obvious boundary. 
 
-You overwork yourself every day. You do overtime all the time. Is it becoming too hard day by day?
+You overwork yourself every day. You do overtime all the time. Isn't it becoming too hard on you day by day?
 
 You don't have to live a horrible life ever again because DevRel-on-steroids can be your assistant to always get things done excellently on your behalf.
 
@@ -625,19 +628,18 @@ These are what we can do for you:
 
 4. Create any form of tailored content.
 
-6. Design tailored content workflows
+6. Design tailored content workflows.
 
-Now, we are excited to get a response from you so that we can start talking about how to drive adoption and revenue for your organization
- 
+Now, we are excited to get a response from you so that we can start talking about how to drive adoption and revenue for your organization.
+
+[Talk to Ayobami Ogundiran on twitter](https://twitter.com/codingnninja)
 
 
 ### For a business:
 
-Do you want to drive adoption and revenue for your products?
+Don't put the success of your business to luck. Let's help you design winning strategies, applications, swags and content that drive adoption and revenue without getting lucky.
 
-We're constantly working around the clock to make sure driving adoption and revenue for you products and oganizations isn't killing your business.
-
-We can help you:
+Now, we can help you:
 
 1. Craft product origin stories that compel your audience to act.
 2. Design tailored content workflows to entice your users. 
@@ -647,4 +649,10 @@ We can help you:
 6. Craft tailored DevRel tactics and strategies for your organization.
 7. Design mental models that help your DevRel team work in harmony.
 
-Now, we are excited to get a response from you so that we can start talking about how to drive adoption and revenue for your products or organization.
+Now, we are excited to get a response from you so that we can start talking about how to drive adoption and revenue for your products.
+
+[Talk to Ayobami Ogundiran on twitter](https://twitter.com/codingnninja)
+
+# License
+
+[Read our license](LICENSE.txt)

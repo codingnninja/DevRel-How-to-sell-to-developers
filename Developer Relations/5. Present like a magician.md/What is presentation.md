@@ -1,0 +1,3 @@
+# Present like a magician
+
+To get detailed inforamtion, analysis, expert opinions, strategies and case studies on this topic, subscribe to my newsletter at [Mindscrates](https://codingnninja.substack.com).
