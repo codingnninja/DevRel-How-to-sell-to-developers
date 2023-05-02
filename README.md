@@ -1,6 +1,6 @@
 # DevRel Bible: How to sell to developers
 
-> The only magic to take your DevRel skills to the next level. Well structured skills and experience to get started in Developer Relations or take your DevRel skills to the next level no matter your current skill level. Now, let's get started!
+> The only magic to take your [DevRel](https://blog.deepgram.com/what-is-devrel-a-deepgram-approach/) skills to the next level. Well structured skills and experience to get started in [Developer Relations](https://en.wikipedia.org/wiki/Developer_relations) or take your DevRel skills to the next level no matter your current skill level. Now, let's get started!
 ## Prerequisites
 
 You only need to be curious to learn more about Developer Relations (DevRel).
@@ -30,7 +30,7 @@ You only need to be curious to learn more about Developer Relations (DevRel).
     - [Measuring the impact of creating content](#measuring-the-impact-of-creating-content)
     - [Measuring impacts of engaging developer communities](#measuring-impacts-of-engaging-developer-communities)
   - [More thought on creating swags to engage developers](#more-thought-on-creating-swags-to-engage-developers)
-  - [How to measure success in DevRel](#how-to-measure-success-in-devrel)
+  - [How to measure success in Developer Relations (DevRel)](#how-to-measure-success-in-devrel)
     - [How to measure impacts?](#how-to-measure-impacts?)
     - [Stages of Impact](#stages-of-impact)
     - [How to measure impact quantitatively and qualitatively](#how-to-measure-impact-quantitatively-and-qualitatively)
@@ -48,12 +48,12 @@ You only need to be curious to learn more about Developer Relations (DevRel).
 
 ## How to read this content
 
-Read everything on this page to have a general understanding of how to succeed in Developer Relations as a whole. However, you can click on "learn more..." at the end of a topic to go deeper into that particular topic.
+Read everything on this page to have a general understanding of how to succeed in Developer Relations (DevRel) as a whole. However, you can click on "learn more..." at the end of a topic to go deeper into that particular topic.
 ## Background
 
 It all started on 6th Feb. 2020 when I was sitting at my table researching more about DevRel challenges. 
 
-Although I had been dabbling into developer relations before then, the talk I had to give at a conference led me to serious research about developer relations.
+Although I had been dabbling into developer relations (DevRel) before then, the talk I had to give at a conference led me to serious research about developer relations.
 
 Along the line, I kept seeing phrases like “It is hard to sell to developers”, “Don’t sell to developers” and so on. 
 
@@ -121,7 +121,7 @@ This definition claims that experience and demonstration are necessary to achiev
 
 Experience has to do with the value or benefit users, organizations and other parties gain out of their interactions which could be through demonstration in form of contents, conferences, demo and any other mediums. 
 
-In short, Developer Relations revolves all demonstrations and their attendant experience.
+In short, Developer Relations revolves around all demonstrations and their attendant experience.
 
 For the sake of practical application, DevRel is about Development, Education ( with marketing and selling sense) and Customer care/support. Oh, sorry! I have forgotten we all hate the word "selling and marketing". Anyway, hear me out.
 
@@ -169,19 +169,29 @@ This is what I mean.
 
 Your product (not you or your words) must make us feel the problem it solves and how amazing it is. If you are a developer that used Bootstrap, SASS, Tailwind CSS, React, Next, ChatGPT, Laravel or Ruby on Rails early; you should understand what I mean by feeling the magic.
 
-Don’t just tell us the problem your product solves; let your product make us feel it by itself. Let me explain:
+Don’t just tell or show us the problem your product solves; let your product make us feel it by itself. Let me explain:
 
 Your products (not just you) should make us feel:
 
-Wow, it is so fast!
-Woot! So cheaper than its usefulness.
-Holy cow, how does it make the features or tasks extremely easy?
-What? It is so easy to learn and delivers the best result.
-Amazing, this is magic.
-Oh no, it eased my stress?
-Yeah, it saves me time.
-Hurray! This process is now amazingly fast.
-Bravo! So sucure.
+- Wow, it is so fast!
+
+- Woot! So cheaper than its usefulness.
+
+- Holy cow, how does it make the features or tasks extremely easy?
+
+- What? It is so easy to learn and delivers the best result.
+
+- Amazing, this is magic.
+
+- Oh no, it eased my stress?
+
+- Yeah, it saves me time.
+
+- Hurray! This process is now amazingly fast.
+
+- Bravo! So secure.
+
+- Wow, this an opportunity to be rich.
 
 Your product should make us feel that our problem is solved. If it doesn’t, you will struggle to sell it to us.
 
@@ -191,7 +201,7 @@ Laravel made the features that usually took about two weeks to take days with it
 
 Besides, I was using Angular 1 before I knew about React and when I used React, I felt the magic and I knew I was not going back. I was able to get around it in three days. So easy. 
 
-TailwindCSS also made me feel the magic recently. When I used it, it was easy to build beautiful pages just by using “class utilities” without stress and its documentation is so simple.
+TailwindCSS also made me feel the magic recently. When I used it, it was easy to build beautiful pages just by using “class utilities” without stress and its documentation and libraries are so simple.
 
 If your products don’t make us or yourself feel that magic, it is hard to get developers to stick to it. Even if you get us to signup, we won’t stick to it. Then, how do you make developers feel the magic in your products?
 
@@ -213,7 +223,9 @@ This is how DevRel goes about it:
 
 ### Identification of audience  
 
-They identify the marketing audience, the target audience and the right audience. 
+They identify ***the marketing audience***, ***the target audience*** and ***the right audience***. 
+
+First and foremost, you need [audience research](https://www.questionpro.com/blog/audience-research/#:~:text=Conclusion-,What%20is%20audience%20research%3F,part%20of%20every%20marketing%20plan.) to succeed in DevRel.
 
 This is the first job of DevRel because all efforts to form good relationships with developers and make them want your products will not tally with the business expectation (which is revenue) if you are not addressing each group of the audience the right way. 
 
@@ -227,7 +239,7 @@ This audience is important as they create a bandwagon that ends up bringing you 
 
 The target audience refers to the set of people you think you’re solving problems for. The reality is many of them will not buy your products for reasons. Maybe they don't see any reason to jump ship, they're scared of lock-in or they can't just feel the magic.
 
-The right audience refers to the audience who have felt the magic in your products, are willing to and are able to pay.
+The right audience refers to the audience who have felt the magic in your products, are willing and are able to pay.
 
 The way you deal with each type of audience is somewhat different. The marketing audience has no reason or ability to pay even if they love your products. 
 
@@ -235,7 +247,7 @@ For this reason, it is important to make sure they achieve a marketing or commun
 
 The target audience needs to feel a kind of specific magic in your products to encourage them to jump ship. They need some reasons. So let them feel the magic in your products – let them feel the reasons.
 
-Improve your products until your target audience can feel the reason in your products. Again, let them feel (not rationalize) the reasons.
+Improve your products until your target audience can feel the reasons in your products. Again, let them feel (not rationalize) the reasons.
 
 Also, the right audience needs to be converted and cared for. They have felt the magic, they are willing and able to buy. All you have to do is to lead them to buy.
 
@@ -251,7 +263,7 @@ Finally, your content, distribution or presentation should be tagged with stage,
 
 ### Education of stakeholders: 
 
-1) DevRel educates the internal stakeholders to build products that make the target audience feel the problem they solve. They do this by constantly getting information from/about the marketing audience, target audience and the right audience to refine the products.
+1) DevRel educates the internal [stakeholders](https://www.techtarget.com/searchcio/definition/stakeholder#:~:text=A%20stakeholder%20is%20a%20person,can%20have%20no%20official%20affiliation.) to build products that make the target audience feel the problem they solve. They do this by constantly getting information from/about the marketing audience, target audience and the right audience to refine the products.
 
 2) They make abstractions, documentation and content that makes it easy to use and adopt products.
 
@@ -273,13 +285,13 @@ Developers have several communities offline and online. You need to be part of t
 
 Doing this is mainly to have genuine relationships with them. See, having genuine relationships with those communities is so important for continuity than marketing your products to them. Why am I saying this? Making the interests of the communities the core of your relationships with them, helps you a lot.
 
-Having strong relationships with developer communities will help you in distributing your content. The communities have gained the attention and trust of several developers so you don’t have to do it yourself and that simply means you have crushed the A (attention) in AIDA (Attention, Interest, Desire and Action).
+Having strong relationships with developer communities will help you in distributing your content. The communities have gained the attention and trust of several developers so you don’t have to do it yourself and that simply means you have crushed the A (attention) in [AIDA](https://www.smartinsights.com/traffic-building-strategy/offer-and-message-development/aida-model/) (Attention, Interest, Desire and Action).
 
 Then, how do you get the interest of developers? Listen, everyone says it is hard to sell to developers and that is true because everyone ignores developers’ ethics – openness, trust and reliability – because they think selling tricks are infallible.
 
 Developers actually have no stable interest; we’re too curious. Even expert developers with several years of experience in watching many products fail will still end up checking out another shining object behind the scene. If you’re a software developer, you’re probably guilty of that. Well, that is okay and needed to succeed in software development.
 
-So to get the interest of a software developer, you must be a master in eliciting curiosity. That is all it takes to make almost any software developer interested. It is easy to make someone interested in your write-up by giving it a title like “How I built a SaaS in one night and sold $5,000, 000 worth of copies the next week”  but it won’t take you far.
+So to get the interest of a software developer, you must be a master in eliciting curiosity. That is all it takes to make almost any software developer interested. It is easy to make someone interested in your write-up by giving it a title like “How I built a SaaS in one night and sold $5,000,000 worth of copies the next week”  but it won’t take you far.
 
 It will gain quick traffic but it is sometimes bad for business except you help people build and sell software. My point is, to make sure you elicit interest with the purpose of your products in mind. 
 
@@ -287,13 +299,13 @@ Don’t get me wrong; that kind of topic is great to make your brand known but i
 
 How do you elicit curiosity in developers?
 
-Yeah, let’s do this. There are several ways to elicit curiosity in developers and they are listed below:
+Yeah, let’s do this. There are several ways to elicit curiosity in developers and some of them are listed below:
 
 ### Naming things to elicit curiosity:
 
 Name your services,  products or activities to elicit curiosity and that will be helpful to gain developers’ attention when you’re not well known. Then, how do you do that? Well, you can use:
 
- *Name Association*: make the name of your product implicitly or explicitly mimic the name of a popular or successful product in your niche or another related niche. Or find away to associate your products to some well known things in your industry.
+ ***Name Association***: make the name of your product implicitly or explicitly mimic the name of a popular or successful product in your niche or another related niche. Or find away to associate your products to some well known things in your industry.
 
  For example, JavaScript explicitly associated itself with Java. You see, whoever knew what Java was meant for would immediately understand what JavaScript was also meant for and would be curious to know how it works. 
 
@@ -301,28 +313,28 @@ That is how to get developers with curiosity. More examples are Facebook, Openba
 
 As the human brain tends to match things with what is stored and fills in the gap, names like this bring back the memory of an associated memory. Whenever you use this naming approach, make sure you don’t violate any copyright.
 
-*Intent revealing name:* If a lot of people want a thing or services, you name your products or services with intent revealing names such as React, freeCodeCamp, YouTooCanCode and Freelancer.
+***Intent revealing name:*** If a lot of people want a thing or services, you name your products or services with intent revealing names such as React, freeCodeCamp, YouTooCanCode and Freelancer.
 
-*Metaphoric name:* Name your products, services or operations names that compare them with things, services or products that are expected to be superior to them such as Artificial Intelligence (AI) – compares machine intelligence to human intelligence, Machine Learning (ML), Virtual Reality (VR),  ReactQuery.
+***Metaphoric name:*** Name your products, services or operations names that compare them with things, services or products that are expected to be superior to them such as Artificial Intelligence (AI) – compares machine intelligence to human intelligence, Machine Learning (ML), Virtual Reality (VR),  ReactQuery.
 
-*Objectifying name:* Name your products or services names of popular objects or names that contain object names such as Python, Ruby, MongoDB, MariaDB, or Python-dance.
+***Objectifying name:*** Name your products or services names of popular objects or names that contain object names such as Python, Ruby, MongoDB, MariaDB, or Python-dance.
 
-*Hyperbolic name:* Give your products, services or operations names that subtly exaggerate their purpose or ability such as Ruby-on-Rails, Image-on-steroid, paradizeDB, Python-onD-Moon, React-on-Fire.
+***Hyperbolic name:*** Give your products, services or operations names that subtly exaggerate their purpose or ability such as Ruby-on-Rails, Image-on-steroid, paradizeDB, Python-onD-Moon, React-on-Fire to make want to know their purposes.
 
-*Funny name:* Give a name that is funny and clearly indicates what you do. GitBoob, hashNude
+***Funny name:*** Give a name that is funny and clearly indicates what you do. GitBoob, hashNude
 
-*Contradictory or paradoxical name:* Give a name that is an exact opposite of a norm, product, idea, tool or itself, e.g, noCode, Stackless, Serverless.
-
+***Contradictory or paradoxical name:*** Give a name that is an exact opposite of a norm, product, idea, tool or itself, e.g, noCode, Stackless, Serverless.
 
 ### Crafting compelling titles:
-Give your content titles that elicit curiosity at a glance. Below shows your ways to do so:
+Give your content titles that elicit curiosity at a glance. You can also use the approaches in naming above. Anyway, below shows your ways to do so:
 
-***Use a paradox:*** You can make your reader curious by using a title that seems to be self-contradictory, contradictory or impossible. E.g  How to sell to developers (Nobody wants to sell to developers because it doesn’t work), How to build a “Serverless Database '' with JavaScript and Github, and How to understand a large, legacy codebase like a pro.
+***Use a paradox:*** You can make your reader curious by using a title that seems to be self-contradictory, contradictory or impossible. E.g  How to sell to developers (Nobody wants to sell to developers because it doesn’t work), *How to build a "Serverless Database" with JavaScript and Github*, and *How to understand a large, legacy codebase like a pro*.
 
 ***Use a question:*** Ask a thought-provoking question that piques the interest of your reader, E.g, Do you know you can reduce your debug time and stress with Replay?
 
-***Solve a problem:*** Make sure your title reflects the problem it solves so that people who need your solution can check it out, eg. How to reduce your debug time and stress with Replay
-Using a teaser: Give a title that hints at a strange or intriguing event or idea. Replay: A video debugger that changed my career, The narrow death of Google.
+***Solve a problem:*** Make sure your title reflects the problem it solves so that people who need your solution can check it out, eg. *How to reduce your debug time and stress with Replay*
+
+***Using a teaser:*** Give a title that hints at a strange or intriguing event or idea. *Replay: A video debugger that changed my career*, *The narrow death of Google*.
 
 ***Use a metaphor:*** Use titles that compare two things of different classes, e.g, ChatGPT-on-steroid: the only coding assistant that never fail.
 
@@ -336,7 +348,7 @@ Note: Whatever you use, make sure it aligns with the image your company is willi
 
 Whatever content you create, be it docs, presentation, tutorial or something else should educate developers in three ways:
 
-Educate them about the subject matter of your content in ways that satisfy their biases. For example, if your content is about teaching people how to debug efficiently, make sure it achieves that purpose without leaving any major biases untouched.
+Educate them about the subject matter of your content in ways that satisfy their desires and biases. For example, if your content is about teaching people how to debug efficiently, make sure it achieves that purpose without leaving any major desires or biases untouched.
 
 Clear doubt and fear of your audience by demonstrating your products in ways that make their fear and doubt obviously unnecessary. If a tutorial is focused on using your products, make sure you subtly clear doubt and fear of your audience about using your products. 
 
@@ -362,7 +374,7 @@ Things like vendor lock-in, scalability, pricing, security, stability and some o
 
 It is important to make your products cater to those desires automatically. Salespeople always get this wrong by trying to do it with flowery words which tend to turn developers off. Don’t say it, make them feel it.
 
-When you do that successfully, it is time to make them take action to buy your software or services. You need to collaborate with the sales team, in this case, to figure out how to encourage developers to buy. You can start by looking out for their complaints about similar and non-similar software and services to avoid the biases they already developed for other software or services.
+When you do that successfully, it is time to make them take action to buy your software or services. You need to collaborate with the sales team, in this case, to figure out how to encourage developers to buy. You can start by looking out for their complaints about similar and non-similar software and services to avoid the biases they have already developed for other software or services.
 
 Once again, it is important to form good relationships with developer communities and elicit their curiosity with terms, interests and desires of their communities instead of trying to use selling tricks on them.
 
@@ -385,7 +397,7 @@ Here is it: DevRel should focus on impacts and relationships but make impacts an
 [Learn more...](Developer%20Relations/8.%20Measuring%20success/0.%20How%20to%20align%20business%20goals%20with%20DevRel.md)
 ### Measuring the impact of going to conferences
 
-DevRel people tend to share swags like stickers, shirts, hoodies and some others at conferences as a way to promote their brands. That is amazing but it will be better if we make most of these things actionable so that we can measure significant actions in the end. 
+DevRel people tend to share swags like stickers, shirts, hoodies and some others at conferences as a way to promote their brands. That is amazing but it will be better if we make most of these things actionable so that we can measure significant actions in the end.
 
 First of all, if you have to share shirts or hoodies at a conference when you’re just getting started, you should only give them to the authorities in your niche or related niches and take pictures with them in your company’s shirt (you don’t need to ask them to put on the shirts you give them to avoid being promotional) and share it on social media later. 
 
@@ -427,18 +439,17 @@ To achieve this level of awareness, my proposition here is that swags should be 
 
 Let me give you some insights:
 
-*Credits:* Create credit tickets or cards that give your audience some preferential treatments they can enjoy by visiting your platform. If you use this appropriately, you can acquire users and still have something to measure. 
+***Credits:*** Create credit tickets or cards that give your audience some preferential treatments they can enjoy by visiting your platform. If you use this appropriately, you can acquire users and still have something to measure. 
 
-*Swags:* Swags should not only have logos, they can also have the title of a tutorial and a url to check it out. Then you can decide what to do with them when they visit you.
+***Swags:*** Swags should not only have logos, they can also have the title of a tutorial and a url to check it out. Then you can decide what to do with them when they visit you.
 
-*Networkers:* This is kind of content or swag that is meant to encourage networking at a conference, online or somewhere else. One way or another, you have to make sure they bring people back to you. For example, I think this write-up is designed for that purpose – to basically network with DevRel people in the industry.
+***Networkers:*** This is kind of content or swag that is meant to encourage networking at a conference, online or somewhere else. One way or another, you have to make sure they bring people back to you. For example, I think this write-up is designed for that purpose – to basically network with DevRel people in the industry.
 
-*Educators:* This is the swag that is purposefully designed to educate people about any subject. It is effective for business if it brings people to learn on your platform. Just make sure your topics are of great relevance and importance to them.
+***Educators:*** This is the swag that is purposefully designed to educate people about any subject. It is effective for business if it brings people to learn on your platform. Just make sure your topics are of great relevance and importance to them.
 
-*Plugins/add-ons/packages:* This is a kind of swag that is designed purposefully to share links to some useful packages related to your niche and it can even be the packages your company creates.
+***Plugins/add-ons/packages:*** This is a kind of swag that is designed purposefully to share links to some useful packages related to your niche and it can even be the packages your company creates.
 
-*Software/Applications:* This swag is meant to present some specific audience with some useful applications they may not know about but are very useful to help them be productive.
-
+***Software/Applications:*** This swag is meant to present some specific audience with some useful applications they may not know about but are very useful to help them be productive.
 ## How to measure success in DevRel
 
 ***"One measurement is worth a thousand expert opinions."***
@@ -500,7 +511,7 @@ Know you exist but don’t know you’re important = Number of those who know yo
 
 Let’s use the image below as an example:
 
-
+[An image of Mark Essien, the founder of https:hotels.ng](markessien.PNG)
 .
 
 In this case, “following” is the major action, so to calculate the level of awareness Mark had to get those followers; we will do 9,467 * 5 = 47,335. That means 47,335 people know that Mark exists and is important but 47,335 * 5 = 236,675 are now aware he exists though don't know he is important. Now, the total awareness generated is equal to  47,335 + 236,675.
