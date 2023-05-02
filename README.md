@@ -511,7 +511,7 @@ Know you exist but don’t know you’re important = Number of those who know yo
 
 Let’s use the image below as an example:
 
-[An image of Mark Essien, the founder of https:hotels.ng](markessien.PNG)
+![An image of Mark Essien, the founder of https:hotels.ng](markessien.PNG)
 .
 
 In this case, “following” is the major action, so to calculate the level of awareness Mark had to get those followers; we will do 9,467 * 5 = 47,335. That means 47,335 people know that Mark exists and is important but 47,335 * 5 = 236,675 are now aware he exists though don't know he is important. Now, the total awareness generated is equal to  47,335 + 236,675.
