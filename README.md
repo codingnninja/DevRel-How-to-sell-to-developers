@@ -49,9 +49,10 @@ You only need to be curious to learn more about Developer Relations (DevRel).
 ## How to read this content
 
 Read everything on this page to have a general understanding of how to succeed in Developer Relations (DevRel) as a whole. However, you can click on "learn more..." at the end of a topic to go deeper into that particular topic.
+
 ## Background
 
-It all started on 6th Feb. 2020 when I was sitting at my table researching more about DevRel challenges. 
+It all started on February 6th, 2020 when I was sitting at my table researching more about DevRel challenges.
 
 Although I had been dabbling into developer relations (DevRel) before then, the talk I had to give at a conference led me to serious research about developer relations.
 
@@ -69,11 +70,11 @@ Selling to developers is very hard for four major reasons – openness, reliabil
 
 Developers are the best among the smart, they are very open and highly curious. At first, these reasons may seem odd but you will realize the truth in them soon.
 
-Listen, salespeople tend to be tricky or deceiving in selling but the common ethic of most software developers is openness and it is openness that makes it easy for us to share challenges, experiences and even our faults in public. You would agree with me on this if you’re a developer.
+Listen, salespeople tend to be tricky or deceiving in selling but the common ethic of most software developers is openness and it is that openness that makes it easy for us to share challenges, experiences and even our faults in public. You would agree with me on this if you’re a developer.
 
 Or have you seen any community that shares things that should be secrets in public like software developers? Now, how is openness makes it hard to sell to developers? Psychologically speaking, if you’re open, you have a high tendency to dislike those who are not straightforward, isn’t it?
 
-Also, developers are very smart people. Many of us have learnt about human psychology and selling by reading widely and watching documentaries and movies. 
+Also, developers are very smart people. Many of us have learned about human psychology and selling by reading widely and watching documentaries and movies. 
 
 All of this experience plus our encounters with salespeople make us always assume salespeople want to trick us and no human being likes to be tricked. For that reason, we hate to give sellers our attention.
 
@@ -81,15 +82,15 @@ Developers are amazingly stubborn in pursuit, so we’re always strongly opinion
 
 Why do you think we have DRY, WET and YAGNI? We tend to be stubborn in our thinking or belief and if you don’t have an emotionally and logically convincing product, you will struggle to sell to developers.
 
-Our inherent curiosity makes it very hard to sell software to us and retain us. Many of us are okay with wasting our time and night to build or find out how one shining project works. In short, we like to learn and build our own things. 
+Our inherent curiosity makes it very hard to sell software to us and retain us. Many of us are okay with wasting our time and night to build or find out how one shining project works. In short, we like to learn and build our things. 
 
 Are you even a software developer if you don’t have unfinished side projects? Who doesn’t? 
 
-So you can’t easily sell software products to us by telling or tricking us to buy it. We will rather build our alternative if you make us angry or trick us. And if your product is not really convincingly useful, curiosity will take us to the next shining things.
+So you can’t easily sell software products to us by telling or tricking us to buy them. We will rather build our alternative if you make us angry or trick us. And if your product is not really convincingly useful, curiosity will take us to the next shining things.
 
 That is the reality.
 
-Why do you think developers are open? It is because if we’re not, software will expose us with ease. Software exposes marketing gimmicks easily because developers have to go through some experience while using them and developers are highly skeptical of software they have not used practically.
+Why do you think developers are open? It is because if we’re not, any piece of software will expose us with ease. Software exposes marketing gimmicks easily because developers have to go through some experience while using them and developers are highly skeptical of software they have not used practically.
 
 So developers rarely pay for software without experiencing it judging from experience. All this is why using marketing gimmicks without good experience rarely works in selling to developers. 
 
@@ -103,7 +104,7 @@ His acts, step by step, are in hard substance. He cannot bury his mistakes in th
 
 He cannot argue them into thin air or blame the judge like the lawyers. He cannot, like the architects, cover his failures with trees and vines. 
 
-He cannot, like the politicians, screen his shortcomings by blaming his opponents and hope the people will forget. 
+He cannot, like the politicians, screen his shortcomings by blaming his opponents and hoping the people will forget. 
 
 The engineer simply cannot deny he did it. If his works do not work, he is damned." - Herbert Hoover, American engineer and politician
 
@@ -111,17 +112,17 @@ The engineer simply cannot deny he did it. If his works do not work, he is damne
 
 ## What is DevRel?
 
-Tracing the origin of Developer Relations, there is no generally acceptable definition as everyone tries to define it with relative terms.
+Tracing the origin of Developer Relations, there is no generally accepted definition as everyone tries to define it with relative terms.
 
-Now, let's make an attempt to give a definition that has a potential to satisfy the needs of any DevRel team.
+Now, let's make an attempt to give a definition that has potential to satisfy the needs of any DevRel team.
 
 DevRel is the interaction among developers to drive and achieve individual and organizational interests through experience and demonstration.
 
-This definition claims that experience and demonstration are necessary to achieve or forfeit business, users and team's goals.
+This definition claims that experience and demonstration are necessary to achieve or forfeit a business, user and team's goals.
 
-Experience has to do with the value or benefit users, organizations and other parties gain out of their interactions which could be through demonstration in form of contents, conferences, demo and any other mediums. 
+Experience has to do with the value or benefit users, organizations and other parties gain out of their interactions which could be through demonstration in the form of content, conferences, demos and any other mediums. 
 
-In short, Developer Relations revolves around all demonstrations and their attendant experience.
+In short, Developer Relations revolve around all demonstrations and their attendant experience.
 
 For the sake of practical application, DevRel is about Development, Education ( with marketing and selling sense) and Customer care/support. Oh, sorry! I have forgotten we all hate the word "selling and marketing". Anyway, hear me out.
 
@@ -131,11 +132,58 @@ Even if you only educate and form relationships, understanding ethical marketing
 
 I strongly believe DevRel is partly about making developers feel the magic in your products. If you and your target audience can't feel the magic (the core problem it solves) while using your products, you still have a lot to do. 
 
-And that is the job of DevRel? 
-
-They educate stakeholders and create documentation, application and content that make the magic felt so that you won’t need to trick people to buy your products.
+Hey wait, isn't DevRel just marketing in disguise? Well, let's talk about their difference.
 
 [Learn more...](Developer%20Relations/1.%20General%20Developer%20Relations/1.%20What%20is%20Developer%20Relations%20(DevRel).md)
+
+
+## DevRel vs Marketing: What is the difference?
+
+On the morning of May 3, 2023, I saw a controversial tweet claiming DevRel is marketing in disguise.
+
+Honestly, it is hard to reasonably debunk this claim. But it must be debunked to help business people not to make horrible choices.
+
+Looking at the claim again, it has the potential to make business people assume they can treat DevRel and Marketing the same way.
+
+No. That would be a terrible mistake for one major reason: Marketing is a profession of those who can talk while DevRel is a profession of those who can bring the talk to reality or do both.
+
+This is what I mean:
+
+It is one thing to promise your audience they will get all their desires plus extra but it is another thing to fulfill the promise.
+
+Marketers have no strong reasons or incentives to care about whatever happens to the users they bring, they only need to bring users. So they always resort to promising "The Heaven and The Earth" just to meet a target.
+
+And there is nothing wrong with that because it is the purpose of their job. In short, the mindset of a marketer is to bring in users by all means possible.
+
+But no, DevRel people can't do the same because their job is more practical than emotional. You can't promise computers to bring solutions into existence.
+
+It has to be practically done, bit by bit, with blood and sweat but never with just promises.
+
+DevRel people and developers generally always face the consequences of any promises they make. They have to work hard to create docs, abstractions, presentations and many others just to fulfill the promises.
+
+Treating DevRel people like marketers tends to prevent them from doing their job of finding and implementing ways to improve user experience to drive adoption and revenue. Turning them to marketers may look good if you focus on vanity metrics instead of what moves your business forward in the end.
+
+Obviously, DevRel has a lot to do with marketing and selling but they have to be addressed differently because of the practicality of software and software development. Marketers win when they bring in users and so they have an incentive to over-promise. Yes, it is totally different for DevRel people. 
+
+After bringing users, they still have to be part of the process to deliver on their promises. If they fail to deliver on their promises, users will have terrible experiences, product adoption will tank and revenue will plummet, leading to the failure of such a company.
+
+So, it is reasonable for any business that deals with developers to make sure their DevRel team focuses on making the developer experience better than anyone else can deliver in their industries. The best way to do so; is not to treat DevRel people as marketers.
+
+Now, in summary, the major difference between marketing and DevRel is:
+
+- Marketers are fond of ***sweetening*** product promises because they don't face the consequences of their actions as they don't build the product which may lead to terrible user or developer experience and revenue. DevRel teams work hard to fulfill the promises made by marketers and business executives. 
+
+- Marketers tend to protect the image of their companies by spreading good news while DevRel tends to protect the image of their companies by trying to improve user experience and satisfaction.
+
+- Marketing focuses on getting acquiring users without necessarily caring about users' experience while DevRel focuses on relationships and other activities that improve users' experience.
+
+- Marketers don't have to care about the feedback from their users because it has nothing to do with their job but any DevRel team needs to care about it because it will help to improve users' experience and satisfaction.
+
+Marketing and DevRel are different in purpose and operation, though they have some intersections in approach. So, treating DevRel teams and operations like marketing is not a good thing for a business that focuses on developers.
+
+Okay, wait! If marketing is different from Developer Relations, then what is the job of DevRel people? 
+
+They educate stakeholders and create documentation, abstractions, applications and content that make the magic in their products felt so that you won’t need to trick people to buy your products.
 
 ## What is the job of DevRel?
 
@@ -191,7 +239,7 @@ Your products (not just you) should make us feel:
 
 - Bravo! So secure.
 
-- Wow, this an opportunity to be rich.
+- Wow, this is an opportunity to be rich.
 
 Your product should make us feel that our problem is solved. If it doesn’t, you will struggle to sell it to us.
 
@@ -203,7 +251,7 @@ Besides, I was using Angular 1 before I knew about React and when I used React, 
 
 TailwindCSS also made me feel the magic recently. When I used it, it was easy to build beautiful pages just by using “class utilities” without stress and its documentation and libraries are so simple.
 
-If your products don’t make us or yourself feel that magic, it is hard to get developers to stick to it. Even if you get us to signup, we won’t stick to it. Then, how do you make developers feel the magic in your products?
+If your products don’t make us or yourself feel that magic, it is hard to get developers to stick to them. Even if you get us to signup, we won’t stick to it. Then, how do you make developers feel the magic in your products?
 
 [Learn more...](Developer%20Relations/1.%20General%20Developer%20Relations/5.%20How%20to%20make%20developers%20buy.md)
 
@@ -211,7 +259,7 @@ If your products don’t make us or yourself feel that magic, it is hard to get 
 
 “Magic touches people in the way great art does. It lets them see the world with new eyes.” – Drummond Money-Coutts
 
-Do your products make us see our problem with new eyes and awe 🤩? That is very important.
+Do your products make us see our problems with new eyes and awe 🤩? That is very important.
 
 To make developers feel the magic in your products, you need to understand your audience and keep refining your products until they make your audience feel their problems are solved. 
 
@@ -267,9 +315,9 @@ Finally, your content, distribution or presentation should be tagged with stage,
 
 2) They make abstractions, documentation and content that makes it easy to use and adopt products.
 
-See, I strongly believe content creation, presentation, distribution and forming relationships are also meant to subtly educate to clear doubt, remove fear and make users take actions. 
+See, I strongly believe content creation, presentation, distribution and forming relationships are also meant to subtly educate to clear doubt, remove fear and make users take action. 
 
-For example, it could be stated in a write-up that "we are building a streaming website with sapabase without vendor lock-in". This example subtly removes the fear of vendor lock-in. 
+For example, it could be stated in a write-up that "we are building a streaming website with Sapabase without vendor lock-in". This example subtly removes the fear of vendor lock-in. 
 
 This kind of education should be interestingly woven into your content, docs, presentation and relationships without selling – without forcing your content or products into the subject of every discussion.
 
@@ -283,13 +331,13 @@ Forming relationships with developers is at the heart of Developer Relations and
 
 Developers have several communities offline and online. You need to be part of those communities to support their operations.
 
-Doing this is mainly to have genuine relationships with them. See, having genuine relationships with those communities is so important for continuity than marketing your products to them. Why am I saying this? Making the interests of the communities the core of your relationships with them, helps you a lot.
+Doing this is mainly to have genuine relationships with them. See, having genuine relationships with those communities is so important for continuity than marketing your products to them. Why am I saying this? Making the interests of the communities the core of your relationships with them; helps you a lot.
 
 Having strong relationships with developer communities will help you in distributing your content. The communities have gained the attention and trust of several developers so you don’t have to do it yourself and that simply means you have crushed the A (attention) in [AIDA](https://www.smartinsights.com/traffic-building-strategy/offer-and-message-development/aida-model/) (Attention, Interest, Desire and Action).
 
 Then, how do you get the interest of developers? Listen, everyone says it is hard to sell to developers and that is true because everyone ignores developers’ ethics – openness, trust and reliability – because they think selling tricks are infallible.
 
-Developers actually have no stable interest; we’re too curious. Even expert developers with several years of experience in watching many products fail will still end up checking out another shining object behind the scene. If you’re a software developer, you’re probably guilty of that. Well, that is okay and needed to succeed in software development.
+Developers have no stable interest; we’re too curious. Even expert developers with several years of experience in watching many products fail will still end up checking out another shining object behind the scene. If you’re a software developer, you’re probably guilty of that. Well, that is okay and needed to succeed in software development.
 
 So to get the interest of a software developer, you must be a master in eliciting curiosity. That is all it takes to make almost any software developer interested. It is easy to make someone interested in your write-up by giving it a title like “How I built a SaaS in one night and sold $5,000,000 worth of copies the next week”  but it won’t take you far.
 
@@ -305,7 +353,7 @@ Yeah, let’s do this. There are several ways to elicit curiosity in developers 
 
 Name your services,  products or activities to elicit curiosity and that will be helpful to gain developers’ attention when you’re not well known. Then, how do you do that? Well, you can use:
 
- ***Name Association***: make the name of your product implicitly or explicitly mimic the name of a popular or successful product in your niche or another related niche. Or find away to associate your products to some well known things in your industry.
+ ***Name Association***: make the name of your product implicitly or explicitly mimic the name of a popular or successful product in your niche or another related niche. Or find a way to associate your products to some well-known things in your industry.
 
  For example, JavaScript explicitly associated itself with Java. You see, whoever knew what Java was meant for would immediately understand what JavaScript was also meant for and would be curious to know how it works. 
 
@@ -313,7 +361,7 @@ That is how to get developers with curiosity. More examples are Facebook, Openba
 
 As the human brain tends to match things with what is stored and fills in the gap, names like this bring back the memory of an associated memory. Whenever you use this naming approach, make sure you don’t violate any copyright.
 
-***Intent revealing name:*** If a lot of people want a thing or services, you name your products or services with intent revealing names such as React, freeCodeCamp, YouTooCanCode and Freelancer.
+***Intent revealing name:*** If a lot of people want a thing or service, you name your products or services with intent revealing names such as React, freeCodeCamp, YouTooCanCode and Freelancer.
 
 ***Metaphoric name:*** Name your products, services or operations names that compare them with things, services or products that are expected to be superior to them such as Artificial Intelligence (AI) – compares machine intelligence to human intelligence, Machine Learning (ML), Virtual Reality (VR),  ReactQuery.
 
@@ -326,17 +374,17 @@ As the human brain tends to match things with what is stored and fills in the ga
 ***Contradictory or paradoxical name:*** Give a name that is an exact opposite of a norm, product, idea, tool or itself, e.g, noCode, Stackless, Serverless.
 
 ### Crafting compelling titles:
-Give your content titles that elicit curiosity at a glance. You can also use the approaches in naming above. Anyway, below shows your ways to do so:
+Give your content titles that elicit curiosity at a glance. You can also use the approaches in the naming above. Anyway, below shows your ways to do so:
 
-***Use a paradox:*** You can make your reader curious by using a title that seems to be self-contradictory, contradictory or impossible. E.g  How to sell to developers (Nobody wants to sell to developers because it doesn’t work), *How to build a "Serverless Database" with JavaScript and Github*, and *How to understand a large, legacy codebase like a pro*.
+***Use a paradox:*** You can make your reader curious by using a title that seems to be self-contradictory, contradictory or impossible. E.g.  How to sell to developers (Nobody wants to sell to developers because it doesn’t work), *How to build a "Serverless Database" with JavaScript and Github*, and *How to understand a large, legacy codebase like a pro*.
 
-***Use a question:*** Ask a thought-provoking question that piques the interest of your reader, E.g, Do you know you can reduce your debug time and stress with Replay?
+***Use a question:*** Ask a thought-provoking question that piques the interest of your reader, E.g., Do you know you can reduce your debug time and stress with Replay?
 
 ***Solve a problem:*** Make sure your title reflects the problem it solves so that people who need your solution can check it out, eg. *How to reduce your debug time and stress with Replay*
 
 ***Using a teaser:*** Give a title that hints at a strange or intriguing event or idea. *Replay: A video debugger that changed my career*, *The narrow death of Google*.
 
-***Use a metaphor:*** Use titles that compare two things of different classes, e.g, ChatGPT-on-steroid: the only coding assistant that never fail.
+***Use a metaphor:*** Use titles that compare two things of different classes, e.g., ChatGPT-on-steroid: the only coding assistant that never fails.
 
 ***Use a number:*** You can also use titles that start with a number like “10 ways to keep you developers productive”.
 
@@ -346,21 +394,21 @@ Note: Whatever you use, make sure it aligns with the image your company is willi
 
 ### Making Content Intriguing:
 
-Whatever content you create, be it docs, presentation, tutorial or something else should educate developers in three ways:
+Whatever content you create, be it docs, presentations, tutorials or something else should educate developers in three ways:
 
 Educate them about the subject matter of your content in ways that satisfy their desires and biases. For example, if your content is about teaching people how to debug efficiently, make sure it achieves that purpose without leaving any major desires or biases untouched.
 
-Clear doubt and fear of your audience by demonstrating your products in ways that make their fear and doubt obviously unnecessary. If a tutorial is focused on using your products, make sure you subtly clear doubt and fear of your audience about using your products. 
+Clear doubt and fear of your audience by demonstrating your products in ways that make their fear and doubt obviously unnecessary. If a tutorial is focused on using your products, make sure you subtly clear the doubt and fear of your audience about using your products. 
 
-You can do so by associating yourself, developers, executive and products to the best in the industry.
+You can do so by associating yourself, developers, business executive and products with the best in the industry.
 
-For example, if you know your audience is not using your products because of their fear of scalability; you can subtly talk about how a real world business is using your product at scale successfully just like another similar product.  
+For example, if you know your audience is not using your products because of their fear of scalability; you can subtly talk about how a real-world business is using your product at scale successfully just like another similar product.  
 
-Subtly educate them with necessary information that will encourage them to take your expected reactions. You can do this by using every other things you have learned above.
+Subtly educate them with the necessary information that will encourage them to take your expected reactions. You can do this by using every other thing you have learned above.
 
-It is necessary to address doubt and fear of your audience in any content that focuses on your products. With this, you won’t have to do much work in convincing them as your content is already doing it for you, and would speed up their actions.
+It is necessary to address the doubt and fear of your audience in any content that focuses on your products. With this, you won’t have to do much work in convincing them as your content is already doing it for you; and would speed up their actions.
  
-With all of this, you will get the interest of developers to take them to your write-ups, make them feel the magic in your products and then find a way to turn them to your clients. 
+With all of this, you will get the interest of developers to take them to your write-ups, make them feel the magic in your products and then find a way to turn them into your clients. 
 
 Most times, getting developers to read your blog is not meant to make them use your products, you simply want them to stick around or visit your blog whenever it appears on Google. In this case, you have to lead them to your products.
 
@@ -435,15 +483,15 @@ Yeah, we have made attending conferences more actionable to appeal to business p
 
 Swags are mostly meant to promote a company's brand, so they’re mostly objects with the company's logo. This way of sharing swags creates incomplete awareness for your products as far as I am concerned. Awareness is only complete not when your audience knows you exist but when they also know you’re important.
 
-To achieve this level of awareness, my proposition here is that swags should be produced for other purposes than to promote your brand; they should also be use to educate, encourage networking and induce user acquisition. This approach is interesting as it makes gathering metrics easier in DevRel. 
+To achieve this level of awareness, my proposition here is that swags should be produced for other purposes than to promote your brand; they should also be used to educate, encourage networking and induce user acquisition. This approach is interesting as it makes gathering metrics easier in DevRel. 
 
 Let me give you some insights:
 
 ***Credits:*** Create credit tickets or cards that give your audience some preferential treatments they can enjoy by visiting your platform. If you use this appropriately, you can acquire users and still have something to measure. 
 
-***Swags:*** Swags should not only have logos, they can also have the title of a tutorial and a url to check it out. Then you can decide what to do with them when they visit you.
+***Swags:*** Swags should not only have logos, they can also have the title of a tutorial and a URL to check it out. Then you can decide what to do with them when they visit you.
 
-***Networkers:*** This is kind of content or swag that is meant to encourage networking at a conference, online or somewhere else. One way or another, you have to make sure they bring people back to you. For example, I think this write-up is designed for that purpose – to basically network with DevRel people in the industry.
+***Networkers:*** This is a kind of content or swag that is meant to encourage networking at a conference, online or somewhere else. One way or another, you have to make sure they bring people back to you. For example, I think this write-up is designed for that purpose – to basically network with DevRel people in the industry.
 
 ***Educators:*** This is the swag that is purposefully designed to educate people about any subject. It is effective for business if it brings people to learn on your platform. Just make sure your topics are of great relevance and importance to them.
 
@@ -489,17 +537,17 @@ In short, to have unexpected but positive impacts or intended impacts, you must 
 
 By a powerful effect, I mean an effect that makes them act the way you desire or predetermined.
 
-Awareness is only complete when it generates inbound and outbound impact or effect, that is your audience realises your offer is important. In DevRel, awareness could be generated with articles, talks, videos, presentations, hackathons, swags and many others. 
+Awareness is only complete when it generates inbound and outbound impact or effect, that is your audience realizes your offer is important. In DevRel, awareness could be generated with articles, talks, videos, presentations, hackathons, swags and many others. 
 
 Therefore, whatever medium is used to generate awareness must have three sections – a heading that elicits curiosity, a body that solves relevant expected problems or make current solutions better unexpectedly and a trigger that takes them to the next stage of impact.
 
-For example, a talk at an event to generate awareness should fulfil all the purposes above. The swags shared should also do the same. Until your awareness fulfils all of these requirements, it is not complete. It should be noted that awareness may start today and be completed next year or at any point in time.
+For example, a talk at an event to generate awareness should fulfill all the purposes above. The swags shared should also do the same. Until your awareness fulfills all of these requirements, it is not complete. It should be noted that awareness may start today and be completed next year or at any point in time.
 
 So to measure awareness we have to use something I call “Both sides of the Pareto principle”. The first side of this principle states that approximately 20% of the people that are aware of your products take inbound actions and 20% of those who take inbound actions will take outbound actions. The first side is about the people who took your predetermined actions.
 
 The second side of the principle states approximately 80% of those who are aware of your products and know it is important are either distracted, occupied, acting on biases,  don’t need or don’t consider your content or products good enough yet. 
 
-The second side is about the people who will take retrogressive or precautionary reactions though they are aware of your products or services. Also, people that know your products exist but don’t know it is important are equal to 5 times those who know it exists and important.
+The second side is about the people who will take retrogressive or precautionary reactions though they are aware of your products or services. Also, people that know your products exist but don’t know it is important are equal to 5 times those who know it exists and are important.
 
 They represent the percentage of the audience you’re yet to get their attention and you can get their attention by varying your operation in all ramifications.  I mean you should vary your styles, contents, distribution channels and every other. 
 
@@ -518,7 +566,7 @@ In this case, “following” is the major action, so to calculate the level of 
 
 ***Acquisition*** (inbound and outbound action) — This refers to getting some audience. It is all about the audience you’re able to get from the awareness you generate. 
 
-For example, those who consume your content and take actions like subscribing, and  sharing and those who take the next action like filling a form (outbound action ). The acquisition is the second stage of impact where you need solid reasons to make the audience take your predetermined reactions.
+For example, those who consume your content and take actions like subscribing, and sharing and those who take the next action like filling a form (outbound action ). The acquisition is the second stage of impact where you need solid reasons to make the audience take your predetermined reactions.
 
 To measure acquisition, you have to measure the predetermined reactions with the first side of the Pareto principle. The first side of this principle states that approximately 20% of the people that are aware of your products take inbound actions and 20% of those who take inbound actions will take outbound actions. The first side is about the people who take your predetermined and relevant reactions. 
 
@@ -544,7 +592,7 @@ You might be wondering why I call all of these stages of impact. It is for you t
 
 ### How to measure impact quantitatively and qualitatively
 
-By now, you should have some insights into measuring impact quantitatively. We will take it a bit further. The impact can be measured with reactions it generates – positively or negatively. 
+By now, you should have some insights into measuring impact quantitatively. We will take it a bit further. The impact can be measured with the reactions it generates – positively or negatively. 
 
 The major reactions as a result of action are predetermined reactions, precautionary reactions, progressive reactions and retrogressive reactions all of which can be measured qualitatively and quantitatively.
 
@@ -558,13 +606,13 @@ The title and image are meant to trigger curiosity (qualitative) and clicks (qua
 
 The body is, for example, meant to make your audience perceive a sense of awe, ease, excitement or opportunity. The more you’re able to get them to this state, the better the chance of them taking your predetermined reaction which is to click the trigger.
 
-In short, every part of your content, be it articles, presentations or whatever should have reactions or purposes you want them to achieve. Reactions or purposes you want them to achieve could be comments/replies, subscriptions, signups, using of products or payment, and then, you can measure the outcome with both sides of the Pareto principle I explained initially. 
+In short, every part of your content, be it articles, presentations or whatever should have reactions or purposes you want them to achieve. Reactions or purposes you want them to achieve could be comments/replies, subscriptions, signups, use of products or payment, and then, you can measure the outcome with both sides of the Pareto principle I explained initially. 
 
-And once they take your predetermined reactions, take their experience to the next level by offering services that give them better experience to retain them.
+And once they take your predetermined reactions, take their experience to the next level by offering services that give them a better experience to retain them.
 
 ***Retrogressive reactions*** refer to the reactions that are worse compared to your predetermined reactions. This means your measurement of the quantitative and qualitative parts of your work ends up being worse than you expect. You can use both sides of the Pareto principle to measure retrogressive reactions.
 
-Most of the time, you have retrogressive reactions because your audience is acting based on biases, experiences, beliefs and knowledge which fault or are against you, so in this case, you have to make them feel or see why their claims are solid and lead them to realizing how you or your products have catered for everything they are doubting or scared of.
+Most of the time, you have retrogressive reactions because your audience is acting based on biases, experiences, beliefs and knowledge which fault or are against you, so in this case, you have to make them feel or see why their claims are solid and lead them to realize how you or your products have catered for everything they are doubting or scared of.
 
 ***Progressive reactions*** refer to the reactions that are better compared to your predetermined reactions. This means you generate more quantitative and qualitative impacts than expected – more comments/replies, subscriptions, payments, referrals and many more.
 
@@ -586,27 +634,27 @@ For example, your content may generate retrogressive reactions and attract a lot
 1st. feedback
 2nd. payment
 3rd. Interactions in communities
-4th. Signups, subscribe
+4th. Signups; subscribe
 5th. Reply, comment
 6th. Read, watch, listen to
 7th. Clicks, views, impression
 
 
-The Hierarchy of Reactions refer to different reactions in their order of importance for the sake of collating trustable and dependable metrics for your business. 
+The Hierarchy of Reactions refers to different reactions in their order of importance for the sake of collating trustable and dependable metrics for your business. 
 
-Measuring all of these reactions with both sides of Pareto principle is useful to always have a solid quantitative and qualitative measurement to make your products or services serve your audience better.
+Measuring all of these reactions with both sides of the Pareto principle is useful to always have a solid quantitative and qualitative measurement to make your products or services serve your audience better.
 
-Finally, measuring success in DevRel is so much dependent on DevRel budget, purposes, and products’ effectiveness. The effort of DevRel will not materialize if the products they promote are not capable of converting and retaining users so it is essential to keep improving the products until it proves its worth.
+Finally, measuring success in DevRel is so much dependent on DevRel budget, purposes, and product effectiveness. The effort of DevRel will not materialize if the products they promote are not capable of converting and retaining users so it is essential to keep improving the products until they can do so.
 
 ## Measuring success
 
 Measuring success is relative and that is why it has to be clearly defined before carrying out DevRel activities and we can adjust the activities after measuring results. 
 
-For this reason, I suggest a kind of agile system in which the two sides of the Pareto principle are used to determine expectation for awareness, acquisition, activation, retention, referral, revenue and feedback.
+For this reason, I suggest a kind of agile system in which the two sides of the Pareto principle are used to determine expectations for awareness, acquisition, activation, retention, referral, revenue and feedback.
 
 Doing this makes it easier to set a budget and encourages optimization as it makes it obvious to realize the differences between expectations and actual results.
 
-In conclusion, there are several ways to go about this based on the context of your organization but I provide this so as to give you a headstart. So, feel free to adjust anything in this write-up to suit the context of your organization and operation.
+In conclusion, there are several ways to go about this based on the context of your organization but I provide this to give you a headstart. So, feel free to adjust anything in this write-up to suit the context of your organization and operation.
 
 Did you feel the magic in this write-up?
 
@@ -619,7 +667,7 @@ Ayobami Ogundiran( Twitter: @codingnninja).
 
 ### For individuals:
 
-Don't over work yourself until you're burned out. 
+Don't overwork yourself until you're burned out. 
 
 See, Developer Relations can be very demanding because it has no obvious boundary. 
 
@@ -635,7 +683,7 @@ These are what we can do for you:
 
 2. Design tailored presentation workflows.
 
-3. Research and analysis products and strategies.
+3. Research and analysis of products and strategies.
 
 4. Create any form of tailored content.
 
