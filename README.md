@@ -691,7 +691,7 @@ These are what we can do for you:
 
 Now, we are excited to get a response from you so that we can start talking about how to drive adoption and revenue for your organization.
 
-[Talk to Ayobami Ogundiran on Twitter to get started for FREE](https://twitter.com/codingnninja)
+[Talk to Ayobami Ogundiran on Twitter to get started](https://twitter.com/codingnninja)
 
 
 ### For a business:
@@ -710,7 +710,7 @@ Now, we can help you:
 
 Now, we are excited to get a response from you so that we can start talking about how to drive adoption and revenue for your products.
 
-[Talk to Ayobami Ogundiran on Twitter to get started for FREE](https://twitter.com/codingnninja)
+[Talk to Ayobami Ogundiran on Twitter to get started](https://twitter.com/codingnninja)
 
 # License
 
