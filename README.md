@@ -139,7 +139,7 @@ Hey wait, isn't DevRel just marketing in disguise? Well, let's talk about their 
 
 ## DevRel vs Marketing: What is the difference?
 
-On the morning of May 3, 2023, I saw a controversial tweet claiming DevRel is marketing in disguise.
+In the early morning of May 3, 2023, I saw a controversial tweet claiming "DevRel is marketing in disguise".
 
 Honestly, it is hard to reasonably debunk this claim. But it must be debunked to help business people not to make horrible choices.
 
@@ -149,7 +149,7 @@ No. That would be a terrible mistake for one major reason: Marketing is a profes
 
 This is what I mean:
 
-It is one thing to promise your audience they will get all their desires plus extra but it is another thing to fulfill the promise.
+It is one thing to promise your audience they will get all their desires plus extra but it is another thing to fulfil the promise.
 
 Marketers have no strong reasons or incentives to care about whatever happens to the users they bring, they only need to bring users. So they always resort to promising "The Heaven and The Earth" just to meet a target.
 
@@ -159,7 +159,7 @@ But no, DevRel people can't do the same because their job is more practical than
 
 It has to be practically done, bit by bit, with blood and sweat but never with just promises.
 
-DevRel people and developers generally always face the consequences of any promises they make. They have to work hard to create docs, abstractions, presentations and many others just to fulfill the promises.
+DevRel people and developers generally always face the consequences of any promises they make. They have to work hard to create docs, abstractions, presentations and many others just to fulfil the promises.
 
 Treating DevRel people like marketers tends to prevent them from doing their job of finding and implementing ways to improve user experience to drive adoption and revenue. Turning them to marketers may look good if you focus on vanity metrics instead of what moves your business forward in the end.
 
@@ -184,7 +184,6 @@ Marketing and DevRel are different in purpose and operation, though they have so
 Okay, wait! If marketing is different from Developer Relations, then what is the job of DevRel people? 
 
 They educate stakeholders and create documentation, abstractions, applications and content that make the magic in their products felt so that you won’t need to trick people to buy your products.
-
 ## What is the job of DevRel?
 
 Your job as a member of a DevRel team is to make developers want to buy whatever products you’re dealing with. 
