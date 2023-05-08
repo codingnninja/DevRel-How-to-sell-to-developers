@@ -1,4 +1,4 @@
-# DevRel Bible: How to sell to developers
+# DevRel: How to sell to developers
 
 > The only magic to take your [DevRel](https://blog.deepgram.com/what-is-devrel-a-deepgram-approach/) skills to the next level. Well structured skills and experience to get started in [Developer Relations](https://en.wikipedia.org/wiki/Developer_relations) or take your DevRel skills to the next level no matter your current skill level. Now, let's get started!
 ## Prerequisites
